@@ -5,5 +5,5 @@
 
 My name is Siddharth Menon I am a experienced Data Scientist with a demonstrated history of working in the information technology and services industry. Skilled in Data Science, 
 Predictive Analytics, Computer Vision, Python.  
-
+<br>
 - 🌱 I’m currently learning Machine Learning and Deep Learning  
